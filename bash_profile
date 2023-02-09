@@ -1,5 +1,5 @@
 # Hello Messsage --------------------------------------------------
-if [ -f  "$HOME/.bashrc"]; then 
+if [ -f  "$HOME/.bashrc" ]; then 
     source "$HOME/.bashrc"
 fi
 set -o vi
