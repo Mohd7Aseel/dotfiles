@@ -8,4 +8,4 @@ echo -e "`bash --version`"
 echo -ne "Uptime: "; uptime
 echo -ne "Server time is: "; date
 
-export PATH=$HOME/vscode/.julia/bin:$PATH
+export PATH=$HOME/.julia/bin:$PATH
