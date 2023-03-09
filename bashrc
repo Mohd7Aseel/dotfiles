@@ -1,4 +1,3 @@
-export PATH=$HOME/.julia/bin:$PATH
 
 alias lla='ls -la'
 # ~/.bashrc: executed by bash(1) for non-login shells.
